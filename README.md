@@ -8,9 +8,9 @@ stores.csv
 
 This file contains anonymized information about the 45 stores, indicating the type and size of the store.
 
-Store: the store number
-Types: Types of the store
-Size: the size of the store
+Store: the store number  
+Types: Types of the store  
+Size: the size of the store  
 
 train.csv
 
